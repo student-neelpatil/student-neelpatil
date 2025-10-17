@@ -52,3 +52,7 @@
 <p align="center">
   💡 <em>“Code. Learn. Build. Repeat.”</em>
 </p>
+
+---
+
+![Neel's GitHub stats](https://github-readme-stats.vercel.app/api?username=student-neelpatil&show_icons=true&theme=dark)
