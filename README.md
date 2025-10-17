@@ -19,6 +19,8 @@
 ![Golang Backend](https://img.shields.io/badge/Go%20Backend-00ADD8?logo=go&logoColor=fff)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=fff)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?logo=socket.io&logoColor=fff)
+
 
 ---
 
@@ -31,6 +33,7 @@
 ### 🗄️ Databases & Queues
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
+![AMQP (RabbitMQ)](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=fff)
 
 ---
 
