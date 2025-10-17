@@ -56,3 +56,11 @@
 ---
 
 ![Neel's GitHub stats](https://github-readme-stats.vercel.app/api?username=student-neelpatil&show_icons=true&theme=dark)
+
+---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=student-neelpatil&layout=compact&theme=dark)
+
+---
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=student-neelpatil&theme=dark)
+
+
