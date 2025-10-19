@@ -5,7 +5,7 @@
 
 <!-- Quote Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=007BFF&center=true&vCenter=true&width=600&lines=%22Code%2C+it%E2%80%99s+bad.%22;Keep+learning.+Keep+building.+Keep+growing.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=007BFF&center=true&vCenter=true&width=600&lines=Keep+learning.+Keep+building.+Keep+growing.">
 </p>
 
 <!-- <h1 align="center">👋 Hey there, I'm Neel Patil</h1>
