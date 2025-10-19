@@ -1,8 +1,19 @@
-<h1 align="center">👋 Hey there, I'm Neel Patil</h1>
+<!-- Typing Animation Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=👋+Hey+there%2C+I'm+Neel+Patil;🚀+Full+Stack+Developer;🌐+Learning+Web+3.0;⚡+Building+Cool+Projects!" alt="Typing SVG" />
+</h1>
+
+<!-- Quote Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F7FF00&center=true&vCenter=true&width=600&lines=%22Code+is+like+humor.+When+you+have+to+explain+it%2C+it%E2%80%99s+bad.%22;Keep+learning.+Keep+building.+Keep+growing.">
+</p>
+
+
+<!-- <h1 align="center">👋 Hey there, I'm Neel Patil</h1>
 
 <p align="center">
   🚀 <strong>Full Stack Developer</strong> | 🌐 Learning <strong>Web 3.0</strong> | ⚙️ Working on <strong>Microservices & CI/CD Workflows</strong>
-</p>
+</p> -->
 
 ---
 
