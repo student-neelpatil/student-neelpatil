@@ -75,4 +75,8 @@
 ## 🔥 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=student-neelpatil&theme=dark)
 
+---
+# Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=student-neelpatil&theme=react-dark)
+
 
